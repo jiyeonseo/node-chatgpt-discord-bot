@@ -1,0 +1,16 @@
+{
+  "name": "node-chatgpt-discord-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "docenv": "^2.0.6",
+    "openai": "^3.1.0"
+  }
+}
